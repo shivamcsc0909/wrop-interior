@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /developer-portal/
+Disallow: /api/
+
+Sitemap: https://wropinterior.com/sitemap.xml
